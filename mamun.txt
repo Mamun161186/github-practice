@@ -3,4 +3,5 @@ how are you
 i have added a new line from local machine
 i have added a new line from remote
 i have edited this file from dev branch
+i have edited this file from feature1 branch_local
 
